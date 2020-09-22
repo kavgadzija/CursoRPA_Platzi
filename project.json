@@ -4,7 +4,10 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3-beta.1143978]",
+    "UiPath.Java.Activities": "[1.0.7495.12930]",
     "UiPath.Mail.Activities": "[1.9.3-beta.1146571]",
+    "UiPath.PDF.Activities": "[3.2.2]",
+    "UiPath.Python.Activities": "[1.0.7495.12930]",
     "UiPath.System.Activities": "[20.10.1-beta.1147753]",
     "UiPath.UIAutomation.Activities": "[20.10.1-preview]"
   },
